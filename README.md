@@ -1,4 +1,4 @@
-# Power BI : Memory Dashboard
+# Power BI : Memory Dashboard 🇬🇷****
 
 ## Overview
 
@@ -75,7 +75,3 @@ The report includes the following slicers:
 - Some labels in the PDF export are truncated due to visual width limitations.
 - The report shows slightly different total counts in different visuals: 120,252 on Page 1 and 120,256 in the Page 2 decomposition tree. This may be caused by visual-level filters, blank handling, aggregation differences, or export formatting.
 - Birthplace analysis explicitly excludes blank entries, resulting in a lower total of 61,067 records.
-
-## Suggested Usage
-
-Use this report to explore historical record concentration by conflict, rank, surname, birth year, and birthplace. Start with the high-level overview on Page 1, then move to Page 2 for drill-down analysis by period, surname, and non-blank birth prefecture.
