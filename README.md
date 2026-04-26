@@ -1,5 +1,4 @@
-# Power BI : Memory Dashboard 🇬🇷****
-
+# Power BI : Memory Dashboard 🇬🇷
 ## Overview
 
 This Power BI report provides an exploratory dashboard for a historical memory dataset containing records grouped by surname, military rank, year of birth, place of birth, and war/conflict period. The report is organised into two pages and includes slicers for filtering by `ΕΠΩΝΥΜΟ` and `ΝΟΜΟΣ ΓΕΝΝΗΣΗΣ`.
