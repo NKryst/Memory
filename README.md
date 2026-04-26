@@ -1,5 +1,4 @@
-# Power BI Report README: Memory Dashboard
-
+# Power BI : Memory Dashboard 🇬🇷
 ## Overview
 
 This Power BI report provides an exploratory dashboard for a historical memory dataset containing records grouped by surname, military rank, year of birth, place of birth, and war/conflict period. The report is organised into two pages and includes slicers for filtering by `ΕΠΩΝΥΜΟ` and `ΝΟΜΟΣ ΓΕΝΝΗΣΗΣ`.
@@ -32,7 +31,6 @@ Page 2 focuses on deeper breakdowns. It includes:
 
 | Metric / Dimension | Value / Top Category | Count | Notes |
 |---|---:|---:|---|
-| Total surname records, Page 1 card | - | 120,252 | Displayed as `120,252K` in the report card. |
 | Total war/conflict categories | - | 16 | Displayed in the Page 1 KPI card. |
 | Total records in war/conflict breakdown, Page 2 | - | 120,256 | Displayed in the Page 2 decomposition tree. |
 | Top war/conflict | Μικρασιατική Εκστρατεία | 45,147 | Largest conflict category on Page 2. |
@@ -76,7 +74,3 @@ The report includes the following slicers:
 - Some labels in the PDF export are truncated due to visual width limitations.
 - The report shows slightly different total counts in different visuals: 120,252 on Page 1 and 120,256 in the Page 2 decomposition tree. This may be caused by visual-level filters, blank handling, aggregation differences, or export formatting.
 - Birthplace analysis explicitly excludes blank entries, resulting in a lower total of 61,067 records.
-
-## Suggested Usage
-
-Use this report to explore historical record concentration by conflict, rank, surname, birth year, and birthplace. Start with the high-level overview on Page 1, then move to Page 2 for drill-down analysis by period, surname, and non-blank birth prefecture.
