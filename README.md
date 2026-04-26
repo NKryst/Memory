@@ -32,7 +32,6 @@ Page 2 focuses on deeper breakdowns. It includes:
 
 | Metric / Dimension | Value / Top Category | Count | Notes |
 |---|---:|---:|---|
-| Total surname records, Page 1 card | - | 120,252 | Displayed as `120,252K` in the report card. |
 | Total war/conflict categories | - | 16 | Displayed in the Page 1 KPI card. |
 | Total records in war/conflict breakdown, Page 2 | - | 120,256 | Displayed in the Page 2 decomposition tree. |
 | Top war/conflict | Μικρασιατική Εκστρατεία | 45,147 | Largest conflict category on Page 2. |
