@@ -1,4 +1,4 @@
-# Power BI Report README: Memory Dashboard
+# Power BI : Memory Dashboard
 
 ## Overview
 
