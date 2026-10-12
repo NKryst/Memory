@@ -5,6 +5,8 @@ This Power BI report provides an exploratory dashboard for a historical memory d
 
 The dashboard highlights how records are distributed across major wars and conflicts, ranks, birth years, surnames, and birth prefectures.
 
+### Claude Artifact https://claude.ai/artifact/MnxDtEPXSiwvm8ovGK7Kwp
+
 ## Report Pages
 
 ### Page 1: General Distribution
